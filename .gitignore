@@ -1,0 +1,22 @@
+#Node
+node_modules
+npm-debug.log*
+yarn.lock
+
+#Environment variables
+.env
+
+#Test files
+testAPI.js
+testDELETE.js
+testUPDATE.js
+testGET.js
+testTax.js
+
+# Logs
+logs/
+*.log
+
+#OS junk
+.DS_Store
+Thumbs.db
